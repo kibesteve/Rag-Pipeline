@@ -1,0 +1,1 @@
+ArithmeticError is the base class for those built-in exceptions that are raised for various arithmetic errors, such as OverflowError, ZeroDivisionError, and FloatingPointError.
